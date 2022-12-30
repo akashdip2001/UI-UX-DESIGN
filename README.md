@@ -9,8 +9,18 @@
 :diamonds: Synapse is a month-long challenge. It happens every year in the month of January.
 Synapse is open to everyone and it marks the celebration of **Open Source.** It's the first Open Source event of AOT that encourages newbies to participate in Open Source and create their 1st meaningful PR.
   
-  <h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+<h1 align="center"><img src='https://github.com/Priyadarshan2000/Awesome-Python-Scripts/blob/main/picture/octocat-wave-dribbble.gif'></h1>
+
+# What is UX Design?
+- UX design, or user experience design, is the process of designing products (such as websites, software, and other digital products) with the goal of improving the user experience. It involves understanding the needs and goals of the users and creating products that are easy to use, efficient, and enjoyable to interact with.
   
+# What is UI Design?
+- UI design, or user interface design, refers to the design of user interfaces for software and computerized devices. It involves creating visual elements such as icons, buttons, and layout that users interact with to perform tasks on a computer or other device. The goal of UI design is to make the user's interaction with the device or software as simple and efficient as possible.
+
+# What happens when UI & UX design comes together?
+- When UI and UX design work together, the result is a product that is visually appealing and easy to use, with a cohesive and consistent look and feel. The designers may collaborate to create wireframes and prototypes that combine both visual and functional elements, and they may also conduct user testing to gather feedback and make improvements to the product.
+
+
 # Registration Link for Synapse 1.0
 https://forms.gle/zQyxgsGpnAUNrV7o9
 
