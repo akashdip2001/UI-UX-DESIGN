@@ -26,7 +26,8 @@ https://synapse1-0.vercel.app/
 
 # Rules and Regulations of contribution in Web-Project Repository
 
-- Add your file in a folder with a readme.md file
+- Add your file in a folder with a readme.md file.
+- Folder Name = Project Name.
 
 # Rewards :
 
