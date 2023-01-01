@@ -22,7 +22,7 @@ Synapse is open to everyone and it marks the celebration of **Open Source.** It'
 
 
 # Registration Link for Synapse 1.0
-https://forms.gle/zQyxgsGpnAUNrV7o9
+https://synapse1-0.vercel.app/
 
 # Rewards :
 
